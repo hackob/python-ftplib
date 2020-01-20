@@ -1,0 +1,5 @@
+# ignorar entorno vitual de python
+env
+
+# ignorar archivos de configuración de Visual Studio Code
+.vscode
