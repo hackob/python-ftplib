@@ -1,10 +1,10 @@
 # python-ftplib
 Usage and examples of python ftplib
 
-# Login and welcome messge 
+# Login and welcome messsge 
 `ftp_login.py`
 
-## Ouput
+## Output
 ```
 $ python3 ftplib/ftp_login.py
 *resp* "220 Welcome to FTP service, python's ftplib is working!!!."
