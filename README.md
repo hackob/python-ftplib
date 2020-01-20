@@ -1,7 +1,7 @@
 # python-ftplib
 Usage and examples of python ftplib
 
-# Login and welcome messsge 
+# Login and welcome message 
 `ftp_login.py`
 
 ## Output
