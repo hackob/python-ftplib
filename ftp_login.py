@@ -21,4 +21,7 @@ with ftplib.FTP() as ftp:
     print(f"\n{welcome_message}\n")
 
     # Login, default anonymous.
-    ftp.login(user='anonymous', passwd='myemail@email.com')
+    # ftp.login(user='anonymous', passwd='myemail@email.com')
+
+    # as anonymous login is the default you can change line 24 with this:
+    ftp.login()
